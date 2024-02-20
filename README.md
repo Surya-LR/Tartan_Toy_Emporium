@@ -17,5 +17,10 @@
 
 **Screenshot of Report Main Page**
 
+
 ![image](https://github.com/Surya-LR/Tartan_Toy_Emporium/assets/77691667/7cec2ef4-d5df-46b5-8701-e5d2186aee8e)
+
+
+Can be Accessed from this link: https://app.powerbi.com/links/ZBv48xNzXq?ctid=2f534369-a0ae-4d6a-9784-f3cc1bd02d3d&pbi_source=linkShare
+
 
