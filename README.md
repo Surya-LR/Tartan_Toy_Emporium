@@ -2,7 +2,7 @@
 
 **PowerBI  Project for Sales data of a fictional toy store in Scotland.**
 
-**The Key steps: **
+**The Key steps:**
   - Read in CSV data
   - Data profiling, cleaning and add calculated column
   - Model the data establishing the Primary and Foreign Keys
@@ -17,5 +17,5 @@
 
 **Screenshot of Report Main Page**
 
-![Tartan_ToyStore_Screenshot](https://github.com/Surya-LR/Tartan_Toy_Emporium/assets/77691667/428eee0a-7b58-480f-bf1e-10db832f9c6c)
+![image](https://github.com/Surya-LR/Tartan_Toy_Emporium/assets/77691667/7cec2ef4-d5df-46b5-8701-e5d2186aee8e)
 
