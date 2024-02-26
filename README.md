@@ -2,6 +2,12 @@
 
 **PowerBI  Project for Sales data of a fictional toy store in Scotland.**
 
+Update: 26/02/2024, New Screenshot
+
+![Screenshot 2024-02-26 195320](https://github.com/Surya-LR/Tartan_Toy_Emporium/assets/77691667/3774df09-1145-413f-8975-cdb7dd965d8a)
+
+
+
 **The Key steps:**
   - Read in CSV data
   - Data profiling, cleaning and add calculated column
@@ -15,7 +21,7 @@
 ![image](https://github.com/Surya-LR/Tartan_Toy_Emporium/assets/77691667/2c672338-ccb2-4fde-97c8-c8206798a612)
 
 
-**Screenshot of Report Main Page**
+**Older Screenshot of Report Main Page**
 
 
 ![image](https://github.com/Surya-LR/Tartan_Toy_Emporium/assets/77691667/7cec2ef4-d5df-46b5-8701-e5d2186aee8e)
