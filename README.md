@@ -4,8 +4,9 @@
 
 Update: 26/02/2024, New Screenshot
 
-![Screenshot 2024-02-26 195320](https://github.com/Surya-LR/Tartan_Toy_Emporium/assets/77691667/3774df09-1145-413f-8975-cdb7dd965d8a)
 
+
+![Screenshot 2024-02-26 201621](https://github.com/Surya-LR/Tartan_Toy_Emporium/assets/77691667/06684466-6b6a-4ce1-b2c7-6fc8e5ce49c4)
 
 
 **The Key steps:**
